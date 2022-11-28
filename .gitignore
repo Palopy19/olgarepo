@@ -1,0 +1,3 @@
+#archivos que no queremos que se nos suba
+.DSTORE
+.pdf
